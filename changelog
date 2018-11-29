@@ -7,4 +7,5 @@ Version: 0.0.8
 - Added the chosen module name in the Consoletitle.
 - Added the option to see the changelogs.
 - Removed the shown exceptions (Proxy errors etc.)
+- Added numbers to hits (  1) account:account | family  
 -----------------------------------------------------------------------------------------------------------------------------------------
