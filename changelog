@@ -1,11 +1,13 @@
 Changelogs MultiC 
 
-Version: 0.0.8
+Version: 0.0.9
 
 - Added Spotify Module.
+- Added PornHub Module/
+- Added Netflix Module.
 - Added Message when choosing a Module. To see which module u choose.
 - Added the chosen module name in the Consoletitle.
 - Added the option to see the changelogs.
-- Removed the shown exceptions (Proxy errors etc.)
-- Added numbers to hits (  1) account:account | family  
+- Removed the shown exceptions (Proxy errors etc.).
+- Added numbers to hits (  1) account:account | family  ).
 -----------------------------------------------------------------------------------------------------------------------------------------
