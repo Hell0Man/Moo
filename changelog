@@ -3,6 +3,7 @@ Changelogs MultiC
 Version: 0.1.0
 
 - Added Fitbit Module (with Capture).
+- Added Chegg Module (w/out Capture).
 - Added support for importing multiple lists at the same time.
 - Added regular expression for Modules which use E:P to only allow E:P Lists. (Will remove any other type of combos if not E:P)
 
