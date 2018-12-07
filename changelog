@@ -1,13 +1,12 @@
 Changelogs MultiC 
 
-Version: 0.0.9
+Version: 0.1.0
 
-- Added Spotify Module.
-- Added PornHub Module.
-- Added Netflix Module (No Capture).
-- Added Message when choosing a Module. To see which module u choose.
-- Added the chosen module name in the Consoletitle.
-- Added the option to see the changelogs.
-- Removed the shown exceptions (Proxy errors etc.).
-- Added numbers to hits (  1) account:account | family  ).
+- Added Fitbit Module (with Capture).
+- Added support for importing multiple lists at the same time.
+- Added regular expression for Modules which use E:P to only allow E:P Lists. (Will remove any other type of combos if not E:P)
+
+Features to come:
+
+- Premium modules
 -----------------------------------------------------------------------------------------------------------------------------------------
