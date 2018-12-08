@@ -1,12 +1,13 @@
 Changelogs MultiC 
 
-Version: 0.1.1
+Version: 0.1.2
 
-- Added Chegg Module (w/out Capture, Use proxies due to temporary ip banning). [Creds to BloodSucker]
-- Added support for importing multiple lists at the same time.
-- Added regular expression for Modules which use E:P to only allow E:P Lists. (Will remove any other type of combos if not E:P)
+- Fixed bug with Socks4 and Socks5 Proxies
+- Changed MultiC Layout
+
 
 Features to come:
 
 - Premium modules
+- An even better layout
 -----------------------------------------------------------------------------------------------------------------------------------------
