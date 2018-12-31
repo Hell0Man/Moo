@@ -1,13 +1,14 @@
 Changelogs MultiC 
 
-Version: 0.1.2
+Version: 0.2.0
 
-- Fixed bug with Socks4 and Socks5 Proxies
-- Changed MultiC Layout
+- Added a few modules (including GC, Captcha ones)
+- Added Captcha support, Add your Captcha Service keys inside Data/CaptchaData.txt
+- Added a few Tools.
+- Added support for Premium Modules
 
 
 Features to come:
 
-- Premium modules
-- An even better layout
+- Config System
 -----------------------------------------------------------------------------------------------------------------------------------------
