@@ -1,11 +1,8 @@
 Changelogs MultiC 
 
-Version: 0.2.0
+Version: 0.2.1
 
-- Added a few modules (including GC, Captcha ones)
-- Added Captcha support, Add your Captcha Service keys inside Data/CaptchaData.txt
-- Added a few Tools.
-- Added support for Premium Modules
+- Added Updater file, This will be last time u have to download MultiC through a link.
 
 
 Features to come:
